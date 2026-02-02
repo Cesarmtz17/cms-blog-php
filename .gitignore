@@ -1,0 +1,15 @@
+# Config local
+config.local.php
+.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
